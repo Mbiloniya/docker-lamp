@@ -1,5 +1,4 @@
 FROM phusion/baseimage
-MAINTAINER Matthew Rayner <hello@rayner.io>
 ENV REFRESHED_AT 2018-08-21
 
 # based on dgraziotin/lamp
